@@ -1,4 +1,4 @@
-import React from 'react';
+
 import ProductListItem from '../ProductListItem';
 import ProductDetails from '../ProductDetails';
 import './ProductView.css';
